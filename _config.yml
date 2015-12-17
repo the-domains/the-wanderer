@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9496162295173742
+  lightness: 0.19797233462260633
+  rhythmicContrast: 0.5918768230608467
+  saturation: 0.7427856759871669
+cta: {}
+layout_spectrum: 0.5939489615136329
+name: The Wanderer
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7951683176527301
